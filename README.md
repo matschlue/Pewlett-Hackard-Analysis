@@ -7,3 +7,5 @@ In this analysis the number of retiring employees per title will be determined, 
 - Since the company has about 300k employees and approximately 90k will retire, this means that the company will lose 30 % of their total workforce.
 - With respect to the seniorty level, approximately 58k are senior employees, which accounts for about 64% of all retirees.
 ![Alt text](/unique_titles.png "Image")
+- A CSV file has been created in order to list all candidate for a mentorship procedure. 
+- 
