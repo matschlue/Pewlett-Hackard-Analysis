@@ -17,3 +17,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  - This cannot be answered with certainty, since people are leaving and joining the company every single day, therefore the data changes on a daily basis. Furthermore, it is not absolute clear that all emplyees will actually go into retirement. Some might work longer than expected or leave the company earlier than anticipated. 
+
+Additional queries or tables
+ - Salary impact on the positions/ seniorty in the company
+ - Average years of belonging to the company in relation to promotions
