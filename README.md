@@ -6,3 +6,4 @@ In this analysis the number of retiring employees per title will be determined, 
 
 
 ![Alt text](/EmployeeDB.png "Image")
+![Alt text](/unique titles.png "Image")
